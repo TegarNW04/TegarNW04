@@ -1,10 +1,5 @@
 ### Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii👋
 
-<p align="left">
-  <a href="https://github.com/TegarNW04/TegarNW04">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
-  </a>
-</p>
 
 <!--
 **TegarNW04/TegarNW04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
