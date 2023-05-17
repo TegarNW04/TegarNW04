@@ -4,7 +4,7 @@
   <a href="https://github.com/codemaker2015/codemaker2015">
     <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
   </a>
-  <a href="https://github.com/codemaker2015/codemaker2015">
+  <a href="https://https://github.com/TegarNW04">
     <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/7103882">
