@@ -1,5 +1,5 @@
 ### :fire:
-### :woman_technologist:
+
 
 <!--
 **TegarNW04/TegarNW04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
